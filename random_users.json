@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Brittney Campbell",
+        "email": "cannoncarmen@yahoo.com",
+        "age": 51,
+        "country": "Solomon Islands",
+        "signup_date": "2024-10-22"
+    },
+    {
+        "id": 2,
+        "name": "Alicia Le",
+        "email": "richard60@yahoo.com",
+        "age": 61,
+        "country": "Nicaragua",
+        "signup_date": "2023-11-15"
+    },
+    {
+        "id": 3,
+        "name": "Susan Sanders",
+        "email": "davidking@gmail.com",
+        "age": 31,
+        "country": "Jordan",
+        "signup_date": "2023-09-22"
+    },
+    {
+        "id": 4,
+        "name": "Taylor Rogers",
+        "email": "spearsjohn@flores-grimes.com",
+        "age": 47,
+        "country": "Bermuda",
+        "signup_date": "2024-04-15"
+    },
+    {
+        "id": 5,
+        "name": "Jacob Bradley",
+        "email": "haleyedwards@hotmail.com",
+        "age": 32,
+        "country": "Congo",
+        "signup_date": "2024-08-21"
+    },
+    {
+        "id": 6,
+        "name": "Christina Bradshaw",
+        "email": "christopherjohnson@solomon.com",
+        "age": 63,
+        "country": "Philippines",
+        "signup_date": "2024-11-26"
+    },
+    {
+        "id": 7,
+        "name": "Karen Rivera",
+        "email": "davidandrews@smith.com",
+        "age": 27,
+        "country": "Turks and Caicos Islands",
+        "signup_date": "2025-07-08"
+    },
+    {
+        "id": 8,
+        "name": "Margaret Hill",
+        "email": "wstrickland@carter.com",
+        "age": 46,
+        "country": "Qatar",
+        "signup_date": "2024-03-19"
+    },
+    {
+        "id": 9,
+        "name": "Stephanie Chambers",
+        "email": "ugonzalez@hotmail.com",
+        "age": 56,
+        "country": "Zimbabwe",
+        "signup_date": "2024-11-11"
+    },
+    {
+        "id": 10,
+        "name": "Erica Giles",
+        "email": "raymondboyle@kelley.net",
+        "age": 62,
+        "country": "Nicaragua",
+        "signup_date": "2023-09-19"
+    },
+    {
+        "id": 11,
+        "name": "Brandon Hudson",
+        "email": "ncruz@yahoo.com",
+        "age": 59,
+        "country": "Vanuatu",
+        "signup_date": "2024-07-01"
+    },
+    {
+        "id": 12,
+        "name": "Erik Jones",
+        "email": "joanneking@yahoo.com",
+        "age": 20,
+        "country": "Guernsey",
+        "signup_date": "2025-07-24"
+    },
+    {
+        "id": 13,
+        "name": "Richard Bennett",
+        "email": "tduncan@ramsey.com",
+        "age": 52,
+        "country": "Tonga",
+        "signup_date": "2024-08-11"
+    },
+    {
+        "id": 14,
+        "name": "Alexis Morrow",
+        "email": "jose33@hotmail.com",
+        "age": 58,
+        "country": "San Marino",
+        "signup_date": "2024-10-06"
+    },
+    {
+        "id": 15,
+        "name": "Dustin Nelson",
+        "email": "nichole36@burke.com",
+        "age": 25,
+        "country": "Jersey",
+        "signup_date": "2024-04-24"
+    },
+    {
+        "id": 16,
+        "name": "Christopher Conrad",
+        "email": "fjefferson@johnson-bradley.net",
+        "age": 25,
+        "country": "Bouvet Island (Bouvetoya)",
+        "signup_date": "2025-05-07"
+    },
+    {
+        "id": 17,
+        "name": "Joseph Garcia",
+        "email": "sean33@yahoo.com",
+        "age": 18,
+        "country": "Lebanon",
+        "signup_date": "2025-02-16"
+    },
+    {
+        "id": 18,
+        "name": "Shelby Edwards",
+        "email": "brian71@yahoo.com",
+        "age": 36,
+        "country": "Estonia",
+        "signup_date": "2024-01-25"
+    },
+    {
+        "id": 19,
+        "name": "William Boone",
+        "email": "armstrongfrank@thompson.org",
+        "age": 26,
+        "country": "Sao Tome and Principe",
+        "signup_date": "2024-04-20"
+    },
+    {
+        "id": 20,
+        "name": "John James",
+        "email": "greerbrandon@gmail.com",
+        "age": 56,
+        "country": "Netherlands Antilles",
+        "signup_date": "2024-09-10"
+    }
+]

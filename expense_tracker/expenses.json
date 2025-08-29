@@ -1,0 +1,32 @@
+[
+    {
+        "item": "Textbook",
+        "amount": 35.5,
+        "date": "29/08/2025"
+    },
+    {
+        "item": "Lunch",
+        "amount": 12.25,
+        "date": "29/08/2025"
+    },
+    {
+        "item": "Notebook",
+        "amount": 5.0,
+        "date": "29/08/2025"
+    },
+    {
+        "item": "Spoon",
+        "amount": 500.0,
+        "date": "29/08/2025"
+    },
+    {
+        "item": "Socks",
+        "amount": 200.0,
+        "date": "29/08/2025"
+    },
+    {
+        "item": "Bottle Water",
+        "amount": 200.0,
+        "date": "29/08/2025"
+    }
+]
